@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: se.sics.kompics.launcher:kompics-local-process-launcher:0.5.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/se/sics/kompics/launcher/kompics-local-process-launcher/0.5.0-SNAPSHOT/kompics-local-process-launcher-0.5.0-20140318.140538-5.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/se/sics/kompics/launcher/kompics-local-process-launcher/0.5.0-SNAPSHOT/kompics-local-process-launcher-0.5.0-20140318.140538-5-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/se/sics/kompics/launcher/kompics-local-process-launcher/0.5.0-SNAPSHOT/kompics-local-process-launcher-0.5.0-20140318.140538-5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
